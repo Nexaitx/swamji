@@ -1,0 +1,11 @@
+/* WhatsApp */
+
+.whatsapp-btn{
+position:fixed;
+bottom:20px;
+right:20px;
+}
+
+.whatsapp-btn img{
+width:100px;
+}
