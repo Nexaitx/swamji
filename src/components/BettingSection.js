@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
-import logo1 from "../assets/vitality-blast-cricket-id.webp";
-import logo2 from "../assets/Swamiji-club-online-sunny.webp";
-import logo3 from "../assets/get-aviator-id.webp";
-import logo4 from "../assets/swamiji-live-exchange.webp";
+import logo1 from "../assets/PromotiomIamge1.png";
+import logo2 from "../assets/PromotiomIamge2.png";
+import logo3 from "../assets/PromotiomIamge3.png";
+import logo4 from "../assets/PromotiomIamge4.png";
 
 
 function BettingSection() {
