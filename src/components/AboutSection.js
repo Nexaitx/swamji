@@ -21,8 +21,8 @@ function AboutSection() {
 
         <p className="section-text">
           With reliable customer support and exciting features all under one
-          gaming ID, KaalBet Online has become one of the most comprehensive
-          and trustworthy Online Cricket ID platforms in India.
+          gaming ID, KaalBet Online has become one of the most comprehensive and trustworthy Online Cricket ID platforms in India.
+          
         </p>
 
       </section>
