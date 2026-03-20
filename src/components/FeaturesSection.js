@@ -1,5 +1,5 @@
 import React from "react";
-import phoneImg from "../assets/winOfferbetting.png";
+import phoneImg from "../assets/contorlgame.png";
 
 function FeaturesSection() {
   return (

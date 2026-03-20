@@ -13,7 +13,7 @@ function HeroSection() {
            kaalBet Online: India's Most Trusted Legal Online Gaming Platform
         </h1>
 
-        <p className="hero-date">Last Updated: January 27, 2026</p>
+        {/* <p className="hero-date">Last Updated: January 27, 2026</p> */}
 
         <p className="hero-description">
           We provide you with an online ID for cricket, casino, and more than

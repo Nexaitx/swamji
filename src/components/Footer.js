@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/logoforkaalbetone-removebg.png";
+import logo from "../assets/kaalbet logolatest.png";
 import upi from "../assets/upi-bank.webp";
 import bank from "../assets/bank_transfer.webp";
 import visa from "../assets/visa.webp";
