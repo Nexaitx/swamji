@@ -14,12 +14,12 @@ import WhyChoose from "../components/WhyChoose";
 import CasinoSection from "../components/CasinoSection";
 import TrustedPartners from "../components/TrustedPartners";
 import GameTypes from "../components/GameTypes";
-import CelebritySection from "../components/CelebritySection";
+// import CelebritySection from "../components/CelebritySection";
 import ReviewsSection from "../components/ReviewsSection";
 import StrategySection from "../components/StrategySection";
 import AboutSectionOne from "../components/AboutSectionOne";
 import Sponsors from "../components/Sponsors";
-import LatestNews from "../components/LatestNews";
+// import LatestNews from "../components/LatestNews";
 import FAQSection from "../components/FAQSection";
 import Footer from "../components/Footer";
 
@@ -41,12 +41,12 @@ function Home() {
         <CasinoSection />
          <TrustedPartners />
       <GameTypes />
-       <CelebritySection />
+       {/* <CelebritySection /> */}
        <ReviewsSection />
        <StrategySection />
        <AboutSectionOne/>
        <Sponsors/>
-       <LatestNews/>
+       {/* <LatestNews/> */}
        <FAQSection/>
        <Footer/>
       <WhatsappFloat />

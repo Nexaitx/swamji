@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "../assets/logoforkaalbetone-removebg.png";
+import logo from "../assets/kaalbet logolatest.png";
 
 function Header() {
 
