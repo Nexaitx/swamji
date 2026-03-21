@@ -15,12 +15,12 @@ function MatchesSection() {
 
       <div className="matches-tabs">
 
-        <button
+        {/* <button
           className={`tab ${activeTab === "live" ? "active" : ""}`}
           onClick={() => setActiveTab("live")}
         >
           Live Matches
-        </button>
+        </button> */}
 
         <button
           className={`tab ${activeTab === "upcoming" ? "active" : ""}`}
@@ -97,7 +97,7 @@ function MatchesSection() {
 
         <div className="matches-cta">
            <a
-        href="https://api.whatsapp.com/send?phone=66909885852"
+        href="https://wa.link/haljko"
         
         target="_blank"
         rel="noreferrer"

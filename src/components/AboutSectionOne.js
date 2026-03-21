@@ -31,7 +31,7 @@ Don’t be late, join and start winning today with India’s most trusted gaming
 <h3 className="popular">Popular Online Gaming Options</h3>
 
  <a
-        href="https://api.whatsapp.com/send?phone=66909885852"
+        href="https://wa.link/haljko"
         
         target="_blank"
         rel="noreferrer"

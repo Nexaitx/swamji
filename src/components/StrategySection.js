@@ -88,7 +88,7 @@ a member of the KaalBet Online.
 <h3 className="popular">Popular Online Casino Gaming Options</h3>
 
  <a
-        href="https://api.whatsapp.com/send?phone=66909885852"
+        href="https://wa.link/haljko"
         
         target="_blank"
         rel="noreferrer"

@@ -5,6 +5,7 @@ import bank from "../assets/bank_transfer.webp";
 import visa from "../assets/visa.webp";
 import netbank from "../assets/net-banking.webp";
 import { FaEnvelope, FaGlobe, FaFacebookF, FaWhatsapp, FaYoutube, FaInstagram } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 function Footer(){
 
 return(
@@ -78,19 +79,60 @@ poker, and arcade games. KaalBet serves customers worldwide.
 <div style={{display:"flex", gap:"12px", margin:"15px 0"}}>
 
 <div className="social-icon">
-<FaFacebookF/>
+     <a
+        href="https://www.facebook.com/Kaalbet2/"
+        
+        target="_blank"
+        rel="noreferrer"
+      >
+        <FaFacebookF/>
+      </a>
+
 </div>
 
 <div className="social-icon">
-<FaWhatsapp/>
+      <a
+        href="https://wa.link/haljko"
+        
+        target="_blank"
+        rel="noreferrer"
+      >
+        <FaWhatsapp/>
+      </a>
+
 </div>
 
 <div className="social-icon">
-<FaYoutube/>
+      <a
+        href="https://www.youtube.com/@Kaalbet"
+        
+        target="_blank"
+        rel="noreferrer"
+      >
+        <FaYoutube/>
+      </a>
+
 </div>
 
 <div className="social-icon">
-<FaInstagram/>
+      <a
+        href="https://www.instagram.com/kaalbet02/"
+        
+        target="_blank"
+        rel="noreferrer"
+      >
+        <FaInstagram/>
+      </a>
+
+</div>
+<div className="social-icon">
+  <a
+    href="https://x.com/kaalbet"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <FaXTwitter />
+  </a>
 </div>
 
 </div>
