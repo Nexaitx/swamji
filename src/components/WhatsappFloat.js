@@ -5,7 +5,7 @@ function WhatsappFloat() {
   return (
     <div className="whatsapp-float">
      <a
-        href="https://api.whatsapp.com/send?phone=66909885852"
+        href="https://wa.link/haljko"
         className="whatsapp-btn"
         target="_blank"
         rel="noreferrer"

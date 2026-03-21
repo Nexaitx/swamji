@@ -37,7 +37,7 @@ function BettingSection() {
           </p>
 
           <a
-        href="https://api.whatsapp.com/send?phone=66909885852"
+        href="https://wa.link/haljko"
         
         target="_blank"
         rel="noreferrer"

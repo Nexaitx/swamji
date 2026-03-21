@@ -29,11 +29,16 @@ function TrustedPartners() {
               <div className="circle">
                 {item}
               </div>
-
+               <a
+        href="https://wa.link/haljko"
+        
+        target="_blank"
+        rel="noreferrer"
+      >
               <button className="get-btn">
                 Get ID
               </button>
-
+            </a>
             </div>
           ))}
 
