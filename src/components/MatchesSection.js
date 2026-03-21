@@ -1,26 +1,26 @@
-import { useState } from "react";
+// import { useState } from "react";
 import cricketshot from "../assets/Group-16-23ud.webp";
-import csk from "../assets/csklogo.webp";
-import mi from "../assets/webp3.webp";
+// import csk from "../assets/csklogo.webp";
+// import mi from "../assets/webp3.webp";
 function MatchesSection() {
 
-  const [activeTab, setActiveTab] = useState("live");
+  // const [activeTab, setActiveTab] = useState("live");
 
   return (
     <section className="matches-section">
 
-      <h2 className="matches-header">
+      {/* <h2 className="matches-header">
         24/7 Live Match Updates 2026
       </h2>
 
       <div className="matches-tabs">
 
-        {/* <button
+        <button
           className={`tab ${activeTab === "live" ? "active" : ""}`}
           onClick={() => setActiveTab("live")}
         >
           Live Matches
-        </button> */}
+        </button>
 
         <button
           className={`tab ${activeTab === "upcoming" ? "active" : ""}`}
@@ -93,7 +93,7 @@ function MatchesSection() {
               </tbody>
             </table>
           </div>
-        </div>
+        </div> */}
 
         <div className="matches-cta">
            <a
